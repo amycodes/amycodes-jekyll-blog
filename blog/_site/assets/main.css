@@ -8136,12 +8136,12 @@ body {
   background: lightsteelblue url(../img/lb_bg.png) no-repeat fixed center;
   background-size: cover; }
 
-header.masthead, header.masthead .overlay, header.masthead .page-heading, #mainNav, #mainNav a.navbar-brand, #mainNav .navbar-nav > li.nav-item > a {
+header.masthead, header.masthead .overlay, header.masthead .post-heading, header.masthead .page-heading, #mainNav, #mainNav a.navbar-brand, #mainNav .navbar-nav > li.nav-item > a {
   color: black;
   background-color: white; }
 
 .section-inner {
   background-color: white; }
 
-header.masthead .page-heading {
+header.masthead .page-heading, header.masthead .post-heading {
   padding: 75px 0 25px; }

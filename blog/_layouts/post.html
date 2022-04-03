@@ -19,8 +19,7 @@ layout: default
             {% endif %}
             <span class="meta">Posted by
               <a href="#">{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}</a>
-              on {{ page.date | date: '%B %d, %Y' }} &middot; {% include read_time.html
-              content=page.content %}
+              on {{ page.date | date: '%B %d, %Y' }}
             </span>
           </div>
         </div>
@@ -31,8 +30,11 @@ layout: default
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
-
-        {{ content }}
+        <section class="about section">
+          <div class="section-inner shadow-sm rounded">
+            {{ content }}
+          </div>
+        </section>
 
         <hr>
 
