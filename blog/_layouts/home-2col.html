@@ -1,0 +1,80 @@
+---
+layout: default
+---
+
+<!-- Page Header -->
+{% if page.background %}
+<header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
+  {% else %}
+  <header class="masthead">
+    {% endif %}
+    <div class="overlay"></div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-md-10 mx-auto">
+          <div class="page-heading">
+            <h1>{{ site.title }}</h1>
+            {% if site.description %}
+            <span class="subheading">{{ site.description }}</span>
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <div class="container main">
+    <div class="row">
+      <div class="primary col-lg-8 col-12">
+        <section class="about section">
+            <div class="section-inner shadow-sm rounded">
+                <h2 class="heading">About Me</h2>
+                <div class="content">
+                    <p>With over ten years industry experience, Amy Arambulo Negrette has built web applications for a variety of industries including Yahoo! Fantasy Sports and NASA Ames Research Center. One of her projects modernized two legacy systems impacting the entire research center and won her a Certificate of Excellence from the Ames Contractor Council. Currently, she builds serverless applications on AWS for a cloud consulting firm and travels the country delivering talks about various serverless implementations. Amy has survived two acquisitions, one round of layoffs, and balancing life with two small children.</p>
+                 
+                </div><!--//content-->
+            </div><!--//section-inner-->                 
+        </section><!--//section-->
+
+        {% include yt-playlist.html %}
+        <section class="about section">
+          <div class="section-inner shadow-sm rounded">
+              <h2 class="heading">Latest Posts</h2>
+              <div class="content">
+                {% for post in site.posts limit : 5 %}
+                  <article class="post-preview">
+                    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
+                      <h2 class="post-title">{{ post.title }}</h2>
+                      {% if post.subtitle %}
+                      <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+                      {% else %}
+                      <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+                      {% endif %}
+                    </a>
+                    <p class="post-meta">Posted by
+                      {% if post.author %}
+                      {{ post.author }}
+                      {% else %}
+                      {{ site.author }}
+                      {% endif %}
+                      on
+                      {{ post.date | date: '%B %d, %Y' }}
+                    </p>
+                  </article>
+                {% endfor %}
+                <hr>
+        
+                <div class="clearfix">
+                  <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View All Posts &rarr;</a>
+                </div>
+              </div>
+              </div>
+          </div>
+        </section>
+
+      <div class="secondary col-lg-4 col-12">
+        {% include skills.html %}
+        {% include sp-playlist.html %}
+      </div>
+    </div>
+  </div>
