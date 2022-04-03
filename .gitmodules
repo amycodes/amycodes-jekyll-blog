@@ -1,0 +1,3 @@
+[submodule "blog/_posts"]
+	path = blog/_posts
+	url = git@github.com:amycodes/blog-posts-archive.git
