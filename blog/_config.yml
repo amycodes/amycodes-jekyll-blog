@@ -21,7 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://master.d1jrsj7cf4blf5.amplifyapp.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nerdypaws
 github_username:  amycodes
-
+google_analytics: UA-117087316-1
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-clean-blog
