@@ -17,7 +17,7 @@ title: "{amy-codes}"
 email: icode@amy-codes.com
 description: >- # this means to ignore newlines until "baseurl:"
   A landing zone for blog posts, technical talks, and other nerdy ramblings.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://master.d1jrsj7cf4blf5.amplifyapp.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nerdypaws
 github_username:  amycodes
