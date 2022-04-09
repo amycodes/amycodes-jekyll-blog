@@ -8145,3 +8145,16 @@ header.masthead, header.masthead .overlay, header.masthead .post-heading, header
 
 header.masthead .page-heading, header.masthead .post-heading {
   padding: 75px 0 25px; }
+
+.main article img.thumbnail {
+  width: 100%; }
+
+.posts article, .main article {
+  border-bottom: thin solid gray;
+  margin-bottom: 1.5em; }
+
+@media only screen and (min-width: 768px) {
+  .main article img.thumbnail, .posts article img.thumbnail {
+    float: left;
+    width: 33%;
+    margin: 0.5em 1em 1em 0; } }
