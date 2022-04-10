@@ -2,6 +2,12 @@
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  {% if site.author %}
+    <meta name="author" content="{{ site.author }}">
+  {% endif %}
+  {% if page.keywords %}
+    <meta name="keywords" content="{{ page.keywords }}">
+  {% endif %}
 
   <title>
     {% if page.title %}{{ page.title | escape }} - {{ site.title | escape }}

@@ -22,6 +22,7 @@ url: "https://www.amy-codes.com" # the base hostname & protocol for your site, e
 twitter_username: nerdypaws
 github_username:  amycodes
 google_analytics: G-17S1DFZ7Q6
+author: Amy Negrette
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-clean-blog
