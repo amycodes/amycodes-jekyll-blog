@@ -18,10 +18,10 @@ email: icode@amy-codes.com
 description: >- # this means to ignore newlines until "baseurl:"
   A landing zone for blog posts, technical talks, and other nerdy ramblings.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://master.d1jrsj7cf4blf5.amplifyapp.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.amy-codes.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nerdypaws
 github_username:  amycodes
-google_analytics: UA-117087316-1
+google_analytics: G-17S1DFZ7Q6
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-clean-blog
