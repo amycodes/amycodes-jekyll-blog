@@ -3,71 +3,71 @@
 
     
     <url>
-        <loc>http://localhost:4000/404.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/404.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/about/</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/about/</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/blog/</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/blog/</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/assets/main.css</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/assets/main.css</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/posts/</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/posts/</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/sitemap.xml</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/sitemap.xml</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talks/</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talks/</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/feed.xml</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/feed.xml</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/assets/main.css.map</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/assets/main.css.map</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
@@ -75,113 +75,113 @@
 
     
     <url>
-        <loc>http://localhost:4000/irl/2022/07/15/the-covid-post.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/irl/2022/07/15/the-covid-post.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/blog/2022/04/09/conf-tips.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/blog/2022/04/09/conf-tips.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/blog/2022/04/03/introductions.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/blog/2022/04/03/introductions.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2021/05/04/fruits-turnips.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2021/05/04/fruits-turnips.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2020/06/11/lambda-fargate.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2020/06/11/lambda-fargate.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2020/03/22/serverless-containers.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2020/03/22/serverless-containers.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2020/03/10/tech-conference.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2020/03/10/tech-conference.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2020/02/27/serverless-servers-sdn.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2020/02/27/serverless-servers-sdn.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2019/12/07/more-than-talk.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2019/12/07/more-than-talk.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2019/11/07/legacy-beyond.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2019/11/07/legacy-beyond.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2019/10/07/serverless-servers.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2019/10/07/serverless-servers.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2019/09/26/traditionally-serverless-chiwitcon.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2019/09/26/traditionally-serverless-chiwitcon.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2019/06/20/api-gateways-aws.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2019/06/20/api-gateways-aws.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2019/06/07/traditionally-serverless.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2019/06/07/traditionally-serverless.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2019/05/30/etls-3-ways.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2019/05/30/etls-3-ways.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
     
     <url>
-        <loc>http://localhost:4000/talk/2019/04/08/api-gateways.html</loc>
-        <lastmod>2022-07-15</lastmod>
+        <loc>https://www.amy-codes.com/talk/2019/04/08/api-gateways.html</loc>
+        <lastmod>2022-07-16</lastmod>
         <changefreq>daily</changefreq>
         <priority>0.5</priority>
     </url>
