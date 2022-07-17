@@ -24,6 +24,7 @@ twitter_username: nerdypaws
 github_username:  amycodes
 google_analytics: G-17S1DFZ7Q6
 author: Amy Negrette
+commentbox_id: 5767641830522880-proj
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-clean-blog

@@ -31,6 +31,11 @@ layout: default
         <section class="about section">
           <div class="section-inner shadow-sm rounded">
             {{ content }}
+            {% if page.hide_comments != true and site.commentbox_id %}
+            <div class="commentbox"></div>
+            <script src="https://unpkg.com/commentbox.io/dist/commentBox.min.js"></script>
+            <script>commentBox( "{{ site.commentbox_id }}" )</script>
+            {% endif %}
           </div>
         </section>
 
